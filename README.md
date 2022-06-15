@@ -1,2 +1,2 @@
 # SharafatKarim.github.io
-A personal site
+A simple personal webpage (~~website~~) :smile:
