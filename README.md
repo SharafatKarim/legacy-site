@@ -7,3 +7,4 @@ no big deal :punch:
 ## Status (UP)
 This site is currently archieved now and moved to a new address:
 - <https://sharafatkarim.github.io/legacy-site/>
+- <http://sharafat.surge.sh/>
